@@ -1,0 +1,45 @@
+
+h4 {
+	
+	color:#000000;
+}
+
+.user{
+	
+	margin-left: 30px;
+    width:100%;
+	margin-bottom:10px;
+		
+}
+
+.text{
+	
+	width:80%;
+	
+}
+
+.txtarea{
+	
+	width: 540px;
+    resize: none;
+    height: 180px;
+}
+}
+
+.labelText{
+	
+	font-face:600;
+	color:#000000;
+	margin-bottom: 3px;
+}
+
+.entryBox {
+margin-top: 8%;
+margin-left:20%;
+width: 60%;
+display:block;
+position:relative;
+background-color:#ffffff;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

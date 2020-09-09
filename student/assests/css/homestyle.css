@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+}
+#nav-bar{
+position:sticky;
+top:0;
+z-index:10;	
+}
+.navbar-toggler{
+	outline:none !important;
+}
+.fa-bars{
+	color:#fff;
+	font-size:30px !important;
+}
+.navbar-nav li{
+	padding: 0 10px;
+}
+.navbar-brand a{
+	COLOR:#FFF;
+}
+.navbar-nav li a{
+	color:#fff !important;
+	font-weight:600;
+	float:right;
+	text-align:left;
+}
+.promo-title{
+	font-size:40px;
+	font-weight:600;
+	margin-top:100px;
+}
+.navbar{
+	background-color:rgba(117, 19, 93, 0.7);
+	height:90px;
+	
+}
+
+  .jumbotron1{
+
+	background-image:linear-gradient(to right,rgba(117, 19, 93, 0.7),#e6ee9c);
+	  background-size: cover;
+     height:550px;
+     padding-left:400px;
+  }
+.ex1{
+  width: 100px;
+  color:#ffffff;
+  position:absolute;
+  left:200px;
+}
